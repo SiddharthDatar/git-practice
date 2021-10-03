@@ -9,3 +9,11 @@ However, the article also talks about how Signal is ripe for abuse. It's busines
 
 ## Note
 While the artice didn't talk about terrorists and radicals, it did allude to them, and this is what I interpreted the article to mean.
+
+
+
+
+
+###Comment from Peiqi Liu (Leo)
+
+Thank you for this brilliant article about signal application. I previously believe software engineering mostly deals with webpages and web-like app such as Amazon, but this is the first time I learn about signal application. Surely this article broadens my horizon.
